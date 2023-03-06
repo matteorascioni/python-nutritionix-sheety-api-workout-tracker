@@ -1,6 +1,7 @@
 # Before to run this program this program run this commands:
 # python3 -m venv venv
 # pip3 install requests
+# To use this program you need to create a google sheet and connect it to sheety.co, to get an idea of the file structure (see workout_example_template.csv). 
 import os
 import json
 import requests
